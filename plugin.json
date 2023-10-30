@@ -2,8 +2,8 @@
     "name": "Gerry Scatty",
     "version": "0.0.1",
     "description": "The cat speak in italian and asks you 'Who Wants to be a Millionaire?'-style questions.",
-    "author_name": "Nicola Procopio",
+    "author_name": "nickprock",
     "plugin_url": "https://github.com/nickprock/gerry-scatty",
     "tags": "cat, trivial",
-    "thumb": "https://github.com/nickprock/gerry-scatty/blob/main/uncle-gerry.jpeg"
+    "thumb": "https://github.com/nickprock/gerry-scatty/blob/main/uncle-gerry.png"
 }
