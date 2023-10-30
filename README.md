@@ -4,6 +4,7 @@
 
 The cat speak in italian and asks you 'Who Wants to be a Millionaire?'-style questions.
 The cat try to imitate the Gerry Scotti's style.
+
 Enable it and have fun!
 
 ![uncle-gerry](https://raw.githubusercontent.com/nickprock/gerry-scatty/main/uncle-gerry.png)
