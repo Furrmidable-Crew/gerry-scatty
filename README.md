@@ -8,3 +8,6 @@ The cat try to imitate the Gerry Scotti's style.
 Enable it and have fun!
 
 ![uncle-gerry](https://raw.githubusercontent.com/nickprock/gerry-scatty/main/uncle-gerry.png)
+
+> The plugin is tested only with ChatGPT LLM.
+> Sometimes the cat may be hallucinating.
