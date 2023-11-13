@@ -23,10 +23,10 @@ def agent_prompt_prefix(prefix, cat):
     return prefix
 
 
-@hook
-def before_cat_sends_message(message, cat):
+# @hook
+# def before_cat_sends_message(message, cat):
 
-    prompt = f'Rephrase the following sentence in Gerry Scotti style: {message["content"]}'
-    message["content"] = cat.llm(prompt)
+#     prompt = f'Rephrase the following sentence in Gerry Scotti style: {message["content"]}'
+#     message["content"] = cat.llm(prompt)
 
-    return message
+#     return message
